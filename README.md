@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhavya Patel</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj-chothani&label=Profile%20views&color=0e75b6&style=flat" alt="niraj-chothani" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj-chothani&label=Profile%20views&color=0e75b6&style=flat" alt="Bhavya Patel" /> </p>
 
-- 🔭 I’m currently working on **Medical Management**
 
-- 💬 Ask me about **Node.js,Android,C#**
+- 💬 Ask me about **Node.js,Android,C#,C,JAVA**
 
 - 📫 How to reach me **bhavyapatel6353@gmail.com**
 
